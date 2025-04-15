@@ -22,8 +22,8 @@ Challenge is to build out this recipe page and get it looking as close to the de
 
 ### Screenshot
 
-![](recipe-page-main-desktop-FINAL.png)
-![](recipe-page-main-mobile-FINAL.png.png)
+![](https://github.com/ctspecht12/FM-recipe-page-Final/blob/e013c10e6121ba960a5fa3d0ba96db62e773bade/recipe-page-main-desktop-FINAL.png)
+![](https://github.com/ctspecht12/FM-recipe-page-Final/blob/e013c10e6121ba960a5fa3d0ba96db62e773bade/recipe-page-main-mobile-FINAL.png.png)
 
 ### Links
 
