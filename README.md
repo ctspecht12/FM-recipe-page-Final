@@ -40,6 +40,7 @@ Challenge is to build out this recipe page and get it looking as close to the de
 
 This was mainly a review for me as I haven't been coding in a while. The main challenges I had to figure out were styling the hr rules and figuring out how to properly style and space the li markers. These are the solutions I ended up using.
 
+```
 hr {
   margin-top: 2rem;
   height: 1px;
@@ -67,6 +68,7 @@ li::marker {
 ol li::marker {
   font-weight: bold;
 }
+```
 
 ### Continued development
 
